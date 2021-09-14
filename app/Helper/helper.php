@@ -1,6 +1,6 @@
 <?php
 
-use Session;
+use Illuminate\Support\Facades\Session;
 
 if(!function_exists('user_type'))
 {
